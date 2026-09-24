@@ -1,0 +1,159 @@
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║  🎯 PDV SYSTEM - COMECE AQUI                                                ║
+║                                                                              ║
+║  Este arquivo mostra EXATAMENTE o que fazer!                               ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ⭐ RECOMENDADO - OPÇÃO 1 (MAIS FÁCIL)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+  Procure nesta pasta pelo arquivo:
+
+      ► INSTALAR_E_RODAR.bat  (CLIQUE 2X NELE)
+
+  Pronto! Ele vai fazer TUDO automaticamente:
+  ✅ Instalar Backend
+  ✅ Instalar Frontend
+  ✅ Criar dados de teste
+  ✅ Iniciar servidores
+  ✅ Abrir navegador
+
+  Pode demorar 5-10 minutos na primeira vez.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ✨ OPÇÃO 2 (ALTERNATIVA RÁPIDA)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+  Se você tem PowerShell, procure por:
+
+      ► SETUP-FACIL.ps1
+
+  Clique com botão direito → "Executar com PowerShell"
+
+  Mesma coisa que a Opção 1, mas mais rápido!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 📝 OPÇÃO 3 (MANUAL - SEM USAR SCRIPTS)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+  Se nenhuma opção acima funcionar, abra:
+
+      ► RODAR_MANUAL.md
+
+  Lá tem instruções passo-a-passo com todas as linhas de comando!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ⏱️  QUANTO TEMPO LEVA?
+
+═══════════════════════════════════════════════════════════════════════════════
+
+  Primeira instalação:   5-10 minutos
+  (dependendo da internet)
+
+  Próximas vezes:        < 10 segundos
+  (basta rodar: npm run dev)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ✅ DEPOIS DE INICIAR
+
+═══════════════════════════════════════════════════════════════════════════════
+
+  1. Navegador abre automaticamente em: http://localhost:3000
+
+  2. Você já vê:
+     ✓ Dashboard com gráficos
+     ✓ 4 clientes cadastrados
+     ✓ 4 vendas registradas
+     ✓ Dados prontos para usar
+
+  3. Tudo funciona! Explore:
+     ✓ Clique nas abas (Vendas, Recebimentos, etc)
+     ✓ Crie novas vendas
+     ✓ Registre recebimentos
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🎯 RESUMO RÁPIDO
+
+═══════════════════════════════════════════════════════════════════════════════
+
+  ► Duplo-clique em INSTALAR_E_RODAR.bat
+
+  ► Aguarde
+
+  ► Pronto! ✨
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ❓ ERROS COMUNS
+
+═══════════════════════════════════════════════════════════════════════════════
+
+  Erro: "Node.js não encontrado"
+  Solução: Baixe em https://nodejs.org/
+
+  Erro: "Arquivo não encontrado"
+  Solução: Certifique-se de estar na pasta certa
+
+  Tela branca no navegador
+  Solução: Aguarde 10 segundos e atualize (F5)
+
+  Porta 5000/3000 em uso
+  Solução: Feche outras aplicações
+
+  Se tudo falhar:
+  Abra RODAR_MANUAL.md e siga os passos lá
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 📚 DOCUMENTAÇÃO
+
+═══════════════════════════════════════════════════════════════════════════════
+
+  Depois de tudo funcionando, você pode ler:
+
+  WELCOME.md             - Visão geral do sistema
+  QUICK_START.md         - Guia rápido (5 min)
+  README.md              - Documentação completa
+  API_DOCUMENTATION.md   - Como usar a API
+  WUZAPI_SETUP.md        - Configurar WhatsApp
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🚀 LET'S GO!
+
+═══════════════════════════════════════════════════════════════════════════════
+
+  👉 Duplo-clique em: INSTALAR_E_RODAR.bat
+
+  Sente, relaxe, aguarde!
+
+  Seu PDV estará funcionando em poucos minutos! 🎉
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+Desenvolvido com ❤️ para seu negócio
+
+PDV System v1.0

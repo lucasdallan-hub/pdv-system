@@ -1,0 +1,25 @@
+﻿{
+    "version":  "0.0.1",
+    "configurations":  [
+                           {
+                               "name":  "painelchat",
+                               "runtimeExecutable":  "C:\\Users\\User\\.bun\\bin\\bun.exe",
+                               "runtimeArgs":  [
+                                                   "--cwd=C:\\Users\\User\\OneDrive\\Imagens\\Claude Code\\painelchat",
+                                                   "run",
+                                                   "dev"
+                                               ],
+                               "port":  8080
+                           },
+                           {
+                               "port":  3000,
+                               "name":  "pdv-frontend",
+                               "autoPort":  false,
+                               "runtimeExecutable":  "npm",
+                               "runtimeArgs":  [
+                                                   "start"
+                                               ],
+                               "url":  "http://localhost:3000"
+                           }
+                       ]
+}

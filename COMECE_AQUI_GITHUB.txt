@@ -1,0 +1,157 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║          📤 COMEÇAR AQUI: UPLOAD DO PDV NO GITHUB 📤                     ║
+║                                                                            ║
+║             Escolha 1 das 2 maneiras abaixo                               ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🎯 ESCOLHA SUA FORMA
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ OPÇÃO 1️⃣ - MAIS FÁCIL (Recomendado!)
+ ───────────────────────────────────
+
+ Usar GitHub Desktop (clica com mouse, sem terminal)
+
+ 👉 Leia: UPLOAD-GITHUB-VISUAL.txt
+ ⏱️  Tempo: 5 minutos
+ ✓ Sem complicações
+ ✓ Visuais claros
+ ✓ Recomendado para iniciantes
+
+
+ OPÇÃO 2️⃣ - MAIS RÁPIDO
+ ─────────────────────
+
+ Usar Terminal/PowerShell (copiar e colar comandos)
+
+ 👉 Leia: GITHUB_PUSH.txt
+ ⏱️  Tempo: 3 minutos
+ ✓ Mais rápido
+ ✓ Direto ao ponto
+ ✓ Recomendado se sabe terminal
+
+
+ OPÇÃO 3️⃣ - AUTOMÁTICO
+ ──────────────────────
+
+ Executar arquivo .bat (clique duplo)
+
+ 👉 Duplo-clique: UPLOAD-GITHUB-AUTOMATICO.bat
+ ⏱️  Tempo: 2 minutos
+ ✓ Script automatizado
+ ✓ Muito rápido
+ ✓ Só responde as perguntas
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🚀 EU VOU COM A OPÇÃO 1 (GitHub Desktop)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Se escolheu a Opção 1, siga estes passos:
+
+ PASSO 1: Baixar GitHub Desktop
+ ──────────────────────────────
+ 1. Acesse: https://desktop.github.com
+ 2. Clique "Download for Windows"
+ 3. Instale (Next > Next > Finish)
+ 4. Abra GitHub Desktop
+
+
+ PASSO 2: Fazer Login
+ ──────────────────
+ 1. No GitHub Desktop, clique "Sign in to GitHub.com"
+ 2. Clique "Sign in with your browser"
+ 3. Faça login no GitHub
+    (Crie conta se não tiver em: https://github.com/signup)
+ 4. Clique "Authorize desktop"
+
+
+ PASSO 3: Adicionar Projeto
+ ─────────────────────────
+ 1. GitHub Desktop → File → Add Local Repository
+ 2. Clique "Browse"
+ 3. Navegue até: C:\Users\User\OneDrive\Imagens\Claude Code
+ 4. Clique "Select Folder"
+ 5. Se pedir, clique "Initialize"
+
+
+ PASSO 4: Publicar no GitHub
+ ───────────────────────────
+ 1. Clique "Publish repository" (no topo)
+ 2. Preencha:
+    ├─ Name: pdv-system
+    ├─ Description: PDV System com PIX
+    └─ Private: (deixe marcado para seguro)
+ 3. Clique "Publish Repository"
+ 4. Aguarde 30-60 segundos
+
+
+ PASSO 5: Fazer Commit
+ ────────────────────
+ 1. GitHub Desktop mostra os arquivos novos
+ 2. Em "Summary" escreva:
+    "PDV System v1.3 com PIX integrado"
+ 3. Clique "Commit to master"
+
+
+ PASSO 6: Fazer Push (Enviar)
+ ─────────────────────────────
+ 1. Clique "Push origin" (no topo)
+ 2. Aguarde alguns segundos
+ 3. Pronto! Código no GitHub!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ✅ VERIFICAR
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Após fazer push:
+
+ 1. GitHub Desktop → Repository → View on GitHub
+ 2. Seu navegador abre o repositório
+ 3. Você verá todos os arquivos do projeto
+ 4. Copie a URL: https://github.com/seu-username/pdv-system
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🎉 PRONTO!
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Seu código está no GitHub! ✅
+
+ Próximo passo:
+
+ 1. Copie a URL do repositório
+ 2. Vá para: https://railway.app
+ 3. Clique "Deploy from GitHub"
+ 4. Cole a URL
+ 5. Seu PDV fica ONLINE em 5 minutos!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 📖 LEIA PARA MAIS DETALHES
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 📄 UPLOAD-GITHUB-VISUAL.txt    → Guia passo a passo visual
+ 📄 GITHUB_PUSH.txt              → Se preferir terminal
+ 📄 UPLOAD-GITHUB-AUTOMATICO.bat → Script automático
+ 📄 3-PASSOS-PARA-ONLINE.txt     → Resumo de tudo
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+Bom upload! 🚀

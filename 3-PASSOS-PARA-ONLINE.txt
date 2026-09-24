@@ -1,0 +1,198 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║              🚀 3 PASSOS PARA SEU PDV FICAR ONLINE! 🚀                   ║
+║                                                                            ║
+║                   Tempo total: 10 minutos                                 ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ⏱️ PASSO 1: GITHUB (5 minutos)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Opção A - GitHub Desktop (Clique, clique, clique) 👇
+
+ 1. Baixe: https://desktop.github.com
+ 2. Instale (Next > Next > Finish)
+ 3. Abra GitHub Desktop
+ 4. Faça login com GitHub (Sign in)
+ 5. File → Add Local Repository
+ 6. Selecione: C:\Users\User\OneDrive\Imagens\Claude Code
+ 7. Clique "Create Repository & Publish"
+ 8. Clique "Publish Repository"
+ 9. PRONTO! Código está no GitHub!
+
+
+ Opção B - Terminal PowerShell (Copie e cole) 👇
+
+ 1. Abra PowerShell como Admin (Windows + X)
+ 2. Execute:
+
+    cd "C:\Users\User\OneDrive\Imagens\Claude Code"
+    git config --global user.name "Seu Nome"
+    git config --global user.email "seu.email@github.com"
+    git init
+    git add .
+    git commit -m "PDV System pronto para Railway"
+    git branch -M main
+    git remote add origin https://github.com/SEU_USUARIO/pdv-system.git
+    git push -u origin main
+
+ 3. Substitua SEU_USUARIO por seu username do GitHub
+ 4. PRONTO! Código está no GitHub!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ⏱️ PASSO 2: RAILWAY (3 minutos)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 1. Abra: https://railway.app
+ 2. Clique "Sign Up" (ou Login se tiver conta)
+ 3. Clique "GitHub"
+ 4. Autorize Railway
+ 5. Volte para Railway
+ 6. Clique "Create New Project"
+ 7. Clique "Deploy from GitHub"
+ 8. Clique "Connect GitHub Account"
+ 9. Autorize Railway novamente
+ 10. Selecione repositório "pdv-system"
+ 11. Clique "Deploy"
+ 12. Aguarde 3-5 minutos...
+ 13. PRONTO! Sistema está online!
+
+ Railroad mostrará: https://seu-projeto.up.railway.app
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ⏱️ PASSO 3: CONFIGURAR (2 minutos)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 1. No Railway, clique em seu projeto
+ 2. Vá para: Settings → Variables
+ 3. Clique "Add Variable"
+ 4. Adicione cada linha abaixo:
+
+    PORT=5000
+    NODE_ENV=production
+    WUZAPI_URL=https://api.wuzapi.com
+    WUZAPI_TOKEN=seu_token_aqui
+    WUZAPI_INSTANCE=sua_instancia_aqui
+
+ 5. Clique "Save"
+ 6. Railway redeploy automaticamente
+ 7. Aguarde 1-2 minutos
+ 8. PRONTO! Sistema está 100% online!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ✅ RESULTADO
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Após os 3 passos, você terá:
+
+ 🌐 Site online:
+    https://seu-projeto.up.railway.app
+
+ 📱 Acessível de qualquer lugar:
+    ✓ Do computador
+    ✓ Do celular
+    ✓ De outro computador
+    ✓ De qualquer browser
+
+ 🔒 Com SSL automático:
+    ✓ HTTPS seguro
+    ✓ Certificado válido
+    ✓ Sem erro no navegador
+
+ 💾 Banco de dados:
+    ✓ PostgreSQL funcionando
+    ✓ Dados salvos automaticamente
+    ✓ Backup automático
+
+ ⚡ Sempre ligado:
+    ✓ 24/7 online
+    ✓ Sem desligar
+    ✓ Sem reiniciar
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🎯 COMPARTILHE COM CLIENTES
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Copie essa URL e compartilhe:
+
+    https://seu-projeto.up.railway.app
+
+ Seus clientes acessam de:
+ ✅ Celular (Android/iPhone)
+ ✅ Tablet
+ ✅ Computador
+ ✅ Qualquer navegador
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🔄 FAZER ATUALIZAÇÕES
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Se quiser adicionar funcionalidades depois:
+
+ COM GITHUB DESKTOP:
+ 1. Faça mudanças no código
+ 2. GitHub Desktop → Changes → Commit → Push
+ 3. Pronto! Railway redeploy automaticamente
+
+ COM TERMINAL:
+ 1. Faça mudanças no código
+ 2. git add .
+ 3. git commit -m "descrição"
+ 4. git push origin main
+ 5. Pronto! Railway redeploy automaticamente
+
+ ⏰ Tempo: 2-3 minutos para atualizar online
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ❓ PRECISA DE AJUDA?
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Leia:
+ 📖 DEPLOY_RAILWAY.txt   → Guia completo passo a passo
+ 📖 GITHUB_PUSH.txt      → Como fazer push no GitHub
+ 📖 README_RAILWAY.md    → Documentação técnica
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🎊 PRONTO!
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Seu PDV System está:
+ ✅ Configurado para Railway
+ ✅ Pronto para upload
+ ✅ Com PIX integrado
+ ✅ 100% funcional
+ ✅ Seguro e rápido
+ ✅ Escalável
+
+ Agora é só seguir os 3 passos e SUA APP está ONLINE! 🚀
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+Boa sorte! 💪

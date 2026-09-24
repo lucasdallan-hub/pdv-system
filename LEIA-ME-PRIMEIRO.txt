@@ -1,0 +1,132 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║                    🚀 PDV SYSTEM - SETUP AUTOMÁTICO                         ║
+║                                                                              ║
+║                           LEIA ESTE ARQUIVO PRIMEIRO!                       ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+
+🎯 ESCOLHA UMA OPÇÃO ABAIXO:
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ OPÇÃO 1: MAIS FÁCIL (Recomendado)                                            │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+  1. Na pasta do projeto, procure por um dos arquivos:
+
+     ✅ SETUP.bat   (Duplo-clique para rodar)
+     ✅ SETUP.vbs   (Alternativa - também duplo-clique)
+
+  2. Aguarde a instalação (pode levar 5-10 minutos na primeira vez)
+
+  3. Pronto! Backend (5000) + Frontend (3000) iniciam automaticamente
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ OPÇÃO 2: MANUAL COM TERMINAL                                                 │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+  1. Abra RODAR_MANUAL.md nesta pasta
+
+  2. Siga os passos lá descrito
+
+  3. Pronto! Tudo funcionando
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ OPÇÃO 3: RÁPIDO (Se já tem instalado antes)                                 │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+  1. Abra terminal (CMD ou PowerShell)
+
+  2. Vá até a pasta:
+     cd C:\Users\User\OneDrive\Imagens\Claude Code
+
+  3. Rode:
+     npm run dev
+
+  4. Pronto! Tudo abre em um comando
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+
+✨ DEPOIS DE INICIAR:
+
+
+  ✅ Navegador abrirá em: http://localhost:3000
+  ✅ Dashboard com dados de teste já carregados
+  ✅ 4 clientes, 4 vendas, 4 recebimentos prontos para usar
+  ✅ Backend rodando em http://localhost:5000
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+
+📚 DOCUMENTAÇÃO:
+
+
+  🎉 WELCOME.md              - Boas-vindas e visão geral
+  ⚡ QUICK_START.md          - Guia rápido (5 minutos)
+  🚀 START.md                - Como iniciar
+  📖 README.md               - Documentação completa
+  🔌 API_DOCUMENTATION.md    - Referência de API
+  📱 WUZAPI_SETUP.md         - Configurar WhatsApp
+  🏗️  PROJECT_STRUCTURE.md   - Arquitetura do projeto
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+
+❓ PERGUNTAS FREQUENTES:
+
+
+P: "Cliquei em SETUP.bat mas nada aconteceu"
+R: Tente SETUP.vbs ou siga RODAR_MANUAL.md
+
+
+P: "Aparece tela branca"
+R: Aguarde 10 segundos e atualize o navegador (F5)
+
+
+P: "Erro de 'port already in use'"
+R: Feche outras aplicações ou mude a porta em .env
+
+
+P: "Node.js não está instalado"
+R: Baixe em https://nodejs.org/
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+
+🎯 PRÓXIMOS PASSOS:
+
+
+  1. ✅ Escolha uma opção acima e rode
+  2. ✅ Aguarde o setup completar
+  3. ✅ Acesse http://localhost:3000
+  4. ✅ Explore as telas de Vendas, Recebimentos, etc
+  5. ✅ Configure WhatsApp (veja WUZAPI_SETUP.md)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+
+💡 DICA FINAL:
+
+
+Se preferir o máximo de simplicidade:
+   → Duplo-clique em SETUP.bat
+   → Sente, relaxe, aguarde
+   → Sistema pronto! 🚀
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+
+Desenvolvido com ❤️ para seu negócio
+
+PDV System v1.0 © 2024

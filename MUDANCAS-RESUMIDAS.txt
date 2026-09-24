@@ -1,0 +1,190 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║               ✨ MUDANÇAS ADICIONADAS AO SISTEMA PDV ✨                  ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 1️⃣ OPÇÃO DE DELETAR (🗑️)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+  Adicionado em TODAS as telas:
+
+  ✅ Vendas     → Clique em 🗑️ para deletar uma venda
+  ✅ Recebimentos → Clique em 🗑️ para deletar recebimento
+  ✅ Pagamentos  → Clique em 🗑️ para deletar pagamento
+  ✅ Clientes   → Clique em 🗑️ para deletar cliente
+
+  Como usar:
+  1. Procure a linha que quer deletar
+  2. Clique no ícone 🗑️ (trash) à direita
+  3. Confirme se tem certeza
+  4. Deletado! ✓
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 2️⃣ LANÇAMENTO RÁPIDO (⚡ NOVO BOTÃO)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+  Novo botão FLUTUANTE no canto inferior direito:
+
+  🟢 Clique no + verde
+
+  3 opções aparecem:
+
+  🛒 VENDA RÁPIDA
+     - Cliente
+     - Descrição do produto
+     - Valor
+     - REGISTRAR
+
+  💰 RECEBIMENTO
+     - Cliente
+     - Descrição
+     - Valor
+     - Data de vencimento
+     - REGISTRAR
+
+  📊 PAGAMENTO
+     - Descrição
+     - Valor
+     - Data de vencimento
+     - REGISTRAR
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ⚙️ MUDANÇAS TÉCNICAS
+
+═══════════════════════════════════════════════════════════════════════════════
+
+  BACKEND (Novas APIs):
+  ✅ DELETE /api/sales/:id
+  ✅ DELETE /api/receives/:id
+  ✅ DELETE /api/payments/:id
+  ✅ DELETE /api/customers/:id
+
+  FRONTEND (Componentes):
+  ✅ QuickEntry.jsx (botão flutuante)
+  ✅ Sales.jsx (adicionado delete)
+  ✅ Receives.jsx (adicionado delete)
+  ✅ Payments.jsx (adicionado delete)
+  ✅ Customers.jsx (adicionado delete)
+  ✅ App.jsx (integrado QuickEntry)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🎯 BENEFÍCIOS
+
+═══════════════════════════════════════════════════════════════════════════════
+
+  ⏱️ Mais RÁPIDO
+     → Lançamento rápido em segundos
+
+  🎯 Mais PRECISO
+     → Apagar registros errados
+
+  ⚙️ Mais EFICIENTE
+     → Menos cliques, mais ação
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🔄 PRÓXIMOS PASSOS
+
+═══════════════════════════════════════════════════════════════════════════════
+
+  1. Rodar o sistema normalmente:
+     → npm run dev
+
+  2. Ou duplo-clique em:
+     → PDV-System.lnk (atalho da área de trabalho)
+
+  3. Testar:
+     → Clique em 🗑️ para deletar
+     → Clique em + para lançamento rápido
+
+  4. Pronto! ✨
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 📝 EXEMPLOS
+
+═══════════════════════════════════════════════════════════════════════════════
+
+  Deletar uma venda:
+  ─────────────────
+  1. Vendas tab
+  2. Procure a venda
+  3. Clique no 🗑️
+  4. Confirme
+  5. Deletada!
+
+  Registrar venda rápido:
+  ──────────────────────
+  1. Clique no + verde
+  2. Selecione "Venda Rápida"
+  3. Cliente: João
+  4. Produto: Camiseta
+  5. Valor: 50.00
+  6. Clique "Registrar"
+  7. Venda criada em 5 segundos!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ⚠️ ATENÇÃO
+
+═══════════════════════════════════════════════════════════════════════════════
+
+  Deletar cliente deleta TUDO:
+  ❌ Cliente
+  ❌ Todas as vendas
+  ❌ Todos os recebimentos
+  ❌ Histórico
+
+  Confirme antes de deletar!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ✅ RESUMO
+
+═══════════════════════════════════════════════════════════════════════════════
+
+  Antes (v1.0):
+  • Apenas leitura
+  • Sem deletar
+  • Sem lançamento rápido
+
+  Agora (v1.1):
+  ✅ Deletar vendas
+  ✅ Deletar recebimentos
+  ✅ Deletar pagamentos
+  ✅ Deletar clientes
+  ✅ Lançamento rápido (botão +)
+  ✅ Mais eficiente!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 📚 LEIA MAIS
+
+═══════════════════════════════════════════════════════════════════════════════
+
+  Para detalhes completos:
+  → NOVOS-RECURSOS.md
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+Seu PDV está mais completo e eficiente! 🚀
+
+PDV System v1.1 ✨

@@ -1,0 +1,272 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║         🚀 UPLOAD DO PDV SYSTEM NO GITHUB - GUIA VISUAL 🚀               ║
+║                                                                            ║
+║                    Método mais fácil: 3 cliques!                          ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 📋 PRÉ-REQUISITOS
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ✅ Conta no GitHub (Crie em: https://github.com/signup)
+ ✅ GitHub Desktop instalado (Baixe em: https://desktop.github.com)
+ ✅ Seu código PDV pronto em: C:\Users\User\OneDrive\Imagens\Claude Code
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🎯 PASSO 1: BAIXAR E INSTALAR GITHUB DESKTOP
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 1. Acesse: https://desktop.github.com
+ 2. Clique no botão "Download for Windows"
+ 3. Aguarde download (GitHubDesktopSetup.exe)
+ 4. Duplo-clique no arquivo
+ 5. Clique "Install" (pode levar 2-3 minutos)
+ 6. Clique "Launch" quando terminar
+
+ ✅ GitHub Desktop está aberto!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🎯 PASSO 2: FAZER LOGIN NO GITHUB
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ No GitHub Desktop que abriu:
+
+ 1. Clique em "Sign in to GitHub.com" (ou File → Options)
+ 2. Clique "Sign in with your browser"
+ 3. Seu navegador abre github.com
+ 4. Faça login com sua conta GitHub
+    (Se não tiver, crie em https://github.com/signup)
+ 5. Clique "Authorize desktop"
+ 6. Volta para GitHub Desktop automaticamente
+
+ ✅ Você está logado!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🎯 PASSO 3: ADICIONAR REPOSITÓRIO LOCAL
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ No GitHub Desktop:
+
+ 1. Clique em: File → Add Local Repository
+
+    ┌─────────────────────────────────────────┐
+    │ File  Edit  View  Repository  Branch... │
+    │  ↓                                       │
+    │  Add Local Repository                   │
+    │  Clone Repository...                    │
+    │  Create New Repository...               │
+    │  Options                                │
+    │  Exit                                   │
+    └─────────────────────────────────────────┘
+
+ 2. Clique "Choose..." ou "Browse"
+ 3. Navegue até: C:\Users\User\OneDrive\Imagens\Claude Code
+ 4. Clique "Select Folder"
+ 5. Se pedir permissão, clique "Initialize a Git repository"
+
+ ✅ Repositório local adicionado!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🎯 PASSO 4: PUBLICAR NO GITHUB
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ No GitHub Desktop (após adicionar repositório):
+
+ 1. No topo, clique em: "Publish repository"
+
+    ┌────────────────────────────────────────────────┐
+    │ [☁] Publish repository                         │
+    └────────────────────────────────────────────────┘
+
+ 2. Se não aparecer, vá em: Repository → Publish repository
+
+ 3. Uma janela abre:
+
+    ┌──────────────────────────────────────────────────┐
+    │ Publish repository                               │
+    ├──────────────────────────────────────────────────┤
+    │ Name: pdv-system                                 │
+    │ Description: PDV System com PIX integrado        │
+    │ Local Path: C:\Users\...                         │
+    │ [✓] Keep this code private                       │ ← Desmarque se quiser
+    │ [GitHub.com] [☐ GitLab]                          │
+    │                                                  │
+    │ [Cancel]  [Publish Repository]                   │
+    └──────────────────────────────────────────────────┘
+
+ 4. Preencha:
+    ├─ Name: pdv-system
+    ├─ Description: PDV System com PIX integrado
+    └─ Private: Deixe marcado (seguro) ou desmarque (público)
+
+ 5. Clique "Publish Repository"
+
+ 6. Aguarde 30-60 segundos...
+
+ ✅ Código está no GitHub!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🎯 PASSO 5: FAZER COMMIT (SALVAR NO GITHUB)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Automaticamente, GitHub Desktop vai mostrar:
+
+ ┌────────────────────────────────────────────────────┐
+ │ pdv-system / master  [╱] Changes [Ⓙ] History [≡]  │
+ ├────────────────────────────────────────────────────┤
+ │ Summary: Initial commit                            │ ← Digite aqui
+ │ Description: (vazio)                               │
+ │                                                    │
+ │ [Cancel Commit]  [Commit to master]                │
+ └────────────────────────────────────────────────────┘
+
+ 1. Em "Summary" escreva:
+
+    "PDV System v1.3 com PIX - Pronto para Railway"
+
+ 2. Clique "Commit to master"
+
+ 3. Aguarde alguns segundos...
+
+ ✅ Commit feito!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🎯 PASSO 6: FAZER PUSH (ENVIAR PARA GITHUB)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Após o commit, no topo aparece:
+
+ ┌────────────────────────────────────────────┐
+ │ [↑] Push origin                            │ ← Clique aqui!
+ └────────────────────────────────────────────┘
+
+ 1. Clique "Push origin"
+ 2. Aguarde 30-60 segundos
+ 3. GitHub faz upload de todos os arquivos
+
+ ✅ Código enviado para GitHub!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ✅ VERIFICAR SE DEU CERTO
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 1. No GitHub Desktop, clique: Repository → View on GitHub
+ 2. Seu navegador abre o repositório no GitHub
+ 3. Você deve ver:
+    ├─ Pasta "backend"
+    ├─ Pasta "frontend"
+    ├─ Arquivo ".env.development"
+    ├─ Arquivo "package.json"
+    ├─ Arquivo "railway.json"
+    └─ Todos os arquivos do seu projeto
+
+ ✅ Tudo certo! Código está no GitHub!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🔗 URL DO SEU REPOSITÓRIO
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Seu código está em:
+
+    https://github.com/seu-username/pdv-system
+
+ Exemplo:
+    https://github.com/joaosilva/pdv-system
+
+ Copie essa URL para usar no Railway!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🔄 PRÓXIMAS VEZES (Atualizar código)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Sempre que quiser atualizar o código:
+
+ 1. Faça mudanças no código
+ 2. GitHub Desktop detecta automaticamente
+ 3. Vá em "Changes"
+ 4. Escreva mensagem em "Summary"
+    Exemplo: "Adicionado novo recurso PIX"
+ 5. Clique "Commit to master"
+ 6. Clique "Push origin" (no topo)
+ 7. Pronto! Código atualizado no GitHub!
+
+ ⏱️ Tempo: 2-3 minutos por atualização
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 💡 DICAS
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ✓ GitHub Desktop automaticamente salva localmente
+ ✓ "Commit" = salvar versão com descrição
+ ✓ "Push" = enviar para GitHub.com
+ ✓ Sempre escreva mensagens descritivas no commit
+ ✓ Use nomes em inglês para commits (padrão)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🚀 PRÓXIMO PASSO
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Após fazer upload:
+
+ 1. Copie a URL: https://github.com/seu-username/pdv-system
+ 2. Vá para: https://railway.app
+ 3. Clique "Deploy from GitHub"
+ 4. Cole a URL
+ 5. Aguarde deploy (3-5 minutos)
+
+ Seu PDV estará ONLINE! 🎉
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ❓ DÚVIDAS?
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Leia:
+ 📖 GITHUB_PUSH.txt (guia textual)
+ 📖 3-PASSOS-PARA-ONLINE.txt (resumo rápido)
+ 📖 DEPLOY_RAILWAY.txt (após upload, deploy)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+Bom upload! 🚀
