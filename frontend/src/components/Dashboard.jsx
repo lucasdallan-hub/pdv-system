@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import { TrendingUp, TrendingDown, DollarSign, AlertCircle, Users, ShoppingCart } from 'lucide-react';
+import { TrendingDown, DollarSign, AlertCircle, Users, ShoppingCart } from 'lucide-react';
 import axios from 'axios';
-import { LineChart, Line, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
+import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 
 const API_URL = 'http://localhost:5000/api';
 
