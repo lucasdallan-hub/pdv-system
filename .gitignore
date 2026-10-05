@@ -8,6 +8,16 @@ yarn-error.log*
 backend/database/pdv.db
 backend/database/*.db
 
+# Certificados digitais — dados sensíveis, jamais versionar
+certificados/
+*.pfx
+*.p12
+*.pem
+*.key
+
+# XML/PDF de notas fiscais baixadas
+backend/database/nfse-xml/
+
 # Environment
 .env
 .env.local

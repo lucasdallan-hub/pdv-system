@@ -20,9 +20,13 @@ if (NODE_ENV === 'production') {
 
 // Import Database
 const db = require('./database/db');
+const nfseStore = require('./services/nfse-store');
 
 // Initialize Database
 db.initialize();
+nfseStore.initialize().catch((err) =>
+  console.error('❌ Falha ao inicializar tabelas NFS-e:', err.message)
+);
 
 // Import Routes
 const salesRoutes = require('./routes/sales');
@@ -31,6 +35,7 @@ const paymentRoutes = require('./routes/payments');
 const dashboardRoutes = require('./routes/dashboard');
 const whatsappRoutes = require('./routes/whatsapp');
 const customersRoutes = require('./routes/customers');
+const nfseRoutes = require('./routes/nfse');
 
 // Routes
 app.use('/api/sales', salesRoutes);
@@ -39,6 +44,7 @@ app.use('/api/payments', paymentRoutes);
 app.use('/api/dashboard', dashboardRoutes);
 app.use('/api/whatsapp', whatsappRoutes);
 app.use('/api/customers', customersRoutes);
+app.use('/api/nfse', nfseRoutes);
 
 // Health Check
 app.get('/api/health', (req, res) => {

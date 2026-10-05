@@ -132,19 +132,19 @@
  Automaticamente, GitHub Desktop vai mostrar:
 
  ┌────────────────────────────────────────────────────┐
- │ pdv-system / master  [╱] Changes [Ⓙ] History [≡]  │
+ │ pdv-system / main    [╱] Changes [Ⓙ] History [≡]  │
  ├────────────────────────────────────────────────────┤
  │ Summary: Initial commit                            │ ← Digite aqui
  │ Description: (vazio)                               │
  │                                                    │
- │ [Cancel Commit]  [Commit to master]                │
+ │ [Cancel Commit]  [Commit to main]                  │
  └────────────────────────────────────────────────────┘
 
  1. Em "Summary" escreva:
 
     "PDV System v1.3 com PIX - Pronto para Railway"
 
- 2. Clique "Commit to master"
+ 2. Clique "Commit to main"
 
  3. Aguarde alguns segundos...
 
@@ -218,7 +218,7 @@
  3. Vá em "Changes"
  4. Escreva mensagem em "Summary"
     Exemplo: "Adicionado novo recurso PIX"
- 5. Clique "Commit to master"
+ 5. Clique "Commit to main"
  6. Clique "Push origin" (no topo)
  7. Pronto! Código atualizado no GitHub!
 

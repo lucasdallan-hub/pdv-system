@@ -1,0 +1,169 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║         ⚡ CONECTAR DOMÍNIO PRÓPRIO - RESUMO RÁPIDO ⚡                  ║
+║                                                                            ║
+║                         5 Passos = 48 horas                              ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🛒 PASSO 1: COMPRAR DOMÍNIO (5 min)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Opções:
+ ├─ Registro.br (domínios .com.br) → https://registro.br
+ ├─ GoDaddy → https://godaddy.com
+ ├─ NameCheap → https://namecheap.com
+ └─ Hostinger, Locaweb, UOL, etc
+
+ Preço:
+ ├─ .com.br: R$ 40-80/ano
+ ├─ .com: ~R$ 30-50/ano
+ └─ Outros: varia
+
+ Exemplo: pdvsystem.com.br ou pdv.com
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🔗 PASSO 2: ANOTAR NAMESERVERS DO RAILWAY
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Você vai usar esses:
+
+ ns1.railway.app
+ ns2.railway.app
+ ns3.railway.app
+ ns4.railway.app
+
+ (Todos os 4!)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ⚙️ PASSO 3: MUDAR NAMESERVERS (1 min)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ No seu registrador (onde comprou):
+
+ 1. Entre na sua conta
+ 2. Procure "Nameservers" ou "Servidores de DNS"
+ 3. Mude para os 4 do Railway (acima)
+ 4. Salve
+ 5. Pronto!
+
+ Espere até 48h para funcionar completamente.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🚂 PASSO 4: CONFIGURAR NO RAILWAY (2 min)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 1. Railway.app → Seu Projeto
+ 2. Procure "Domains"
+ 3. Clique "Add Domain"
+ 4. Digite seu domínio: pdvsystem.com.br
+ 5. Clique "Add"
+ 6. Aguarde ficar ✅ ACTIVE
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ✅ PASSO 5: TESTAR (instantâneo)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Quando ficar ACTIVE:
+
+ Cole no navegador: https://seu-dominio.com.br
+ Seu PDV abre! 🎉
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 📊 COMPARAÇÃO
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ANTES (URL do Railway):
+ https://seu-projeto.up.railway.app
+ ❌ Comprida
+ ❌ Difícil de lembrar
+ ❌ Menos profissional
+
+ DEPOIS (Seu domínio próprio):
+ https://pdvsystem.com.br
+ ✅ Curta
+ ✅ Fácil de lembrar
+ ✅ Profissional!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ⏱️ TIMELINE
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ T+0h:    Compra domínio
+ T+5m:    Muda nameservers
+ T+2h:    Configura no Railway (pode fazer logo)
+ T+2-48h: Domínio ativa completamente
+ T+48h:   100% funcionando!
+
+ Na maioria das vezes: 2-4 horas já funciona
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 💡 BÔNUS
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ✅ URL antiga continua funcionando:
+    https://seu-projeto.up.railway.app
+
+ ✅ www também funciona:
+    https://www.pdvsystem.com.br
+
+ ✅ SSL/HTTPS automático:
+    Cadeadinho verde em tudo!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ❓ DÚVIDA: Qual registrador escolher?
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Recomendado:
+ 1. Registro.br (para .com.br - Brasil)
+ 2. NameCheap (barato, fácil)
+ 3. GoDaddy (popular, tem suporte em português)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🎯 RESUMO
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 1. Compre domínio       (R$30-100/ano)
+ 2. Anote nameservers    (4 do Railway)
+ 3. Mude nameservers     (no seu registrador)
+ 4. Configure no Railway (Add Domain)
+ 5. Aguarde até 48h      (às vezes menos!)
+ 6. Teste seu domínio    (https://seu-dominio.com)
+
+ PRONTO! 🎉
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+Aproveite! 🚀

@@ -1,0 +1,267 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║         🔍 ONDE ACHAR AS INFORMAÇÕES DO RAILWAY 🔍                      ║
+║                                                                            ║
+║                   Passo a passo visual                                    ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 1️⃣  ACESSAR RAILWAY.APP
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Copie e cole no navegador:
+
+    https://railway.app
+
+ Ou clique aqui: https://railway.app
+
+
+ Você verá essa página:
+
+ ┌──────────────────────────────────────────────────────┐
+ │ Railway                                      [Logout] │
+ ├──────────────────────────────────────────────────────┤
+ │                                                      │
+ │ Projects                                            │
+ │                                                      │
+ │ ┌────────────────────────────────────────────────┐ │
+ │ │ pdv-system              Status: Online ✅     │ │
+ │ │                                                │ │
+ │ │ (Este é o seu projeto!)                       │ │
+ │ └────────────────────────────────────────────────┘ │
+ │                                                      │
+ └──────────────────────────────────────────────────────┘
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 2️⃣  CLIQUE NO PROJETO "pdv-system"
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Vá para Railway.app (conforme acima)
+
+ Você verá:
+
+ ┌────────────────────────────────────────────────┐
+ │ pdv-system              Status: Online ✅     │
+ │                                                │
+ │ (Seu projeto)                                  │
+ └────────────────────────────────────────────────┘
+       ↑
+      Clique aqui!
+
+ Depois de clicar, você vê:
+
+ ┌──────────────────────────────────────────────────────┐
+ │ pdv-system (Seu Projeto)                     [X]     │
+ ├──────────────────────────────────────────────────────┤
+ │                                                      │
+ │ Status: Building... ou Online ✅                     │
+ │                                                      │
+ │ [🔗 https://seu-projeto.up.railway.app]   [Copiar] │
+ │        ↑                                              │
+ │        ESTA É A URL QUE VOCÊ QUER!                   │
+ │        (Aparece em azul ou cinza)                    │
+ │                                                      │
+ ├──────────────────────────────────────────────────────┤
+ │ Deployment                                           │
+ │ Memory: 512 MB                                       │
+ │ CPU: ...                                             │
+ │ Status: Running                                      │
+ │                                                      │
+ ├──────────────────────────────────────────────────────┤
+ │ Logs (mostra o que tá acontecendo)                   │
+ │ Metrics (gráficos de uso)                            │
+ │ Settings (configurações)                             │
+ └──────────────────────────────────────────────────────┘
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 3️⃣  PROCURE A URL NO TOPO
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ No seu projeto, procure por:
+
+ ┌──────────────────────────────────────────────────┐
+ │ [🔗 https://seu-projeto.up.railway.app]         │
+ │                                                  │
+ │ Pode estar em azul ou cinza, mas sempre visível │
+ │ NO TOPO da página do seu projeto                │
+ └──────────────────────────────────────────────────┘
+
+ Se não vir de primeira:
+ ├─ Scroll para cima (pode estar acima)
+ ├─ Procure por "Public URL" ou "Domain"
+ ├─ Procure por "https://seu-projeto.up.railway.app"
+ └─ Está ali em algum lugar!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 4️⃣  COPIAR A URL
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Opção A - Clique direto:
+ ─────────────────────
+ Clique na URL em azul:
+ https://seu-projeto.up.railway.app
+
+ Seu navegador abre seu PDV automaticamente!
+
+
+ Opção B - Copiar e colar:
+ ───────────────────────
+ 1. Clique no botão "Copiar" ao lado da URL
+
+    [🔗 https://seu-projeto.up.railway.app]  [Copiar]
+                                              ↑
+                                         Clique aqui
+
+ 2. URL é copiada para a área de transferência
+
+ 3. Abra novo navegador/aba
+
+ 4. Clique na barra de endereço (topo)
+
+ 5. Pressione Ctrl+V (colar)
+
+ 6. Pressione Enter
+
+ 7. Seu PDV abre!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🎬 EXEMPLO VISUAL COMPLETO
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Passo 1: Abrir Railway
+ ┌─────────────────────────────────────┐
+ │ https://railway.app                 │ ← Cole isso na barra
+ └─────────────────────────────────────┘
+
+ Passo 2: Ver seus projetos
+ ┌─────────────────────────────────────┐
+ │ Projects                            │
+ │ ┌─────────────────────────────────┐ │
+ │ │ pdv-system ✅                   │ │ ← Clique aqui
+ │ └─────────────────────────────────┘ │
+ └─────────────────────────────────────┘
+
+ Passo 3: Ver projeto aberto
+ ┌─────────────────────────────────────┐
+ │ pdv-system                          │
+ │ https://seu-projeto.up.railway.app  │ ← URL aqui
+ │                                     │
+ │ Status: Online ✅                   │
+ │ ...                                 │
+ └─────────────────────────────────────┘
+
+ Passo 4: Copiar URL
+ https://seu-projeto.up.railway.app
+
+ Passo 5: Abrir no navegador
+ ┌─────────────────────────────────────┐
+ │ https://seu-projeto.up.railway.app  │ ← Cole aqui
+ └─────────────────────────────────────┘
+          ↓
+ [Enter]
+
+ Resultado:
+ ┌─────────────────────────────────────┐
+ │ 📊 PDV System                       │
+ │ Seu PDV abre aqui! 🎉             │
+ └─────────────────────────────────────┘
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ❓ NÃO ACHEI A URL - E AGORA?
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Se não vir a URL no topo:
+
+ 1. Aguarde o build terminar
+    (Status deve estar "Online" verde)
+
+ 2. Se Status está "Building"
+    Aguarde mais alguns minutos
+
+ 3. Tente recarregar a página
+    Pressione F5
+
+ 4. Procure em outros lugares:
+    ├─ Aba "Settings" (configurações)
+    ├─ Aba "Domains" (domínios)
+    └─ Procure por "https://" em azul
+
+ 5. Se ainda não achar
+    Redeploy pode ajudar:
+    ├─ Clique "Redeploy"
+    ├─ Aguarde build terminar
+    └─ URL aparece depois
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 📱 TESTE NO CELULAR
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 1. Copie a URL: https://seu-projeto.up.railway.app
+
+ 2. Abra navegador no celular
+
+ 3. Cole a URL
+
+ 4. Pressione "Ir" ou "Enter"
+
+ 5. Seu PDV funciona no celular!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ✅ CHECKLIST
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ [ ] Abri https://railway.app
+ [ ] Vi meu projeto "pdv-system"
+ [ ] Cliquei no projeto
+ [ ] Vi a URL no topo: https://seu-projeto.up.railway.app
+ [ ] Copiei a URL
+ [ ] Colei no navegador
+ [ ] Pressionar Enter
+ [ ] Meu PDV abriu! 🎉
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🎯 RESUMO
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Informação     │ Onde Achar
+ ───────────────┼──────────────────────────────────────
+ Railway.app    │ https://railway.app (cole no navegador)
+ ───────────────┼──────────────────────────────────────
+ Projeto        │ Railway.app → Projects → pdv-system
+ ───────────────┼──────────────────────────────────────
+ URL do PDV     │ Railway.app → Seu Projeto → No topo
+ ───────────────┼──────────────────────────────────────
+               │ https://seu-projeto.up.railway.app
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+Tudo pronto! 🚀

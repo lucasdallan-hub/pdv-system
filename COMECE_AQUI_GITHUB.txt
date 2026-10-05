@@ -99,7 +99,7 @@
  1. GitHub Desktop mostra os arquivos novos
  2. Em "Summary" escreva:
     "PDV System v1.3 com PIX integrado"
- 3. Clique "Commit to master"
+ 3. Clique "Commit to main"
 
 
  PASSO 6: Fazer Push (Enviar)

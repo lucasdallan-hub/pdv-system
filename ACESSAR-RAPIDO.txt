@@ -1,0 +1,101 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║            ⚡ ACESSAR PDV ONLINE - RESUMO RÁPIDO ⚡                      ║
+║                                                                            ║
+║                         2 Passos Simples!                                 ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🚀 PASSO 1: ENCONTRAR URL DO RAILWAY
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 1. Abra: https://railway.app
+ 2. Clique no seu projeto "pdv-system"
+ 3. No topo, você verá:
+
+    https://seu-projeto.up.railway.app
+
+ 4. Anote essa URL!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🌐 PASSO 2: ABRIR NO NAVEGADOR
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Opção A (Mais fácil):
+ 1. Clique direto no link do Railway
+ 2. Pronto! PDV abre
+
+ Opção B (Manual):
+ 1. Copie: https://seu-projeto.up.railway.app
+ 2. Cole na barra do navegador
+ 3. Pressione Enter
+ 4. PDV aparece!
+
+ Opção C (Celular):
+ 1. Abra navegador no celular
+ 2. Cole a URL
+ 3. Funciona igual!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ✅ VOCÊ VERÁ ISSO
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Seu PDV System completo:
+
+ 📊 PDV System
+ 💼 Controle Total de Vendas e Finanças
+
+ Com 6 abas:
+ ├─ 📊 Dashboard (estatísticas)
+ ├─ 🛒 Vendas
+ ├─ 💰 Recebimentos
+ ├─ 📋 Pagamentos
+ ├─ 👥 Clientes
+ ├─ 📱 PIX
+ └─ 💬 WhatsApp
+
+ E um botão verde "+" no canto inferior direito
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ 🎯 COMPARTILHAR COM CLIENTES
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Copie essa URL:
+
+    https://seu-projeto.up.railway.app
+
+ E envie por:
+ ✓ WhatsApp
+ ✓ Email
+ ✓ SMS
+ ✓ QR Code
+ ✓ Qualquer meio!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ ⏱️  TEMPO
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ Build: 5-10 minutos (primeira vez)
+ Acessar: 2 segundos
+ Carregar: 3 segundos
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+Pronto! Seu PDV está online! 🎉

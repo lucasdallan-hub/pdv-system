@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { BarChart3, Users, DollarSign, AlertCircle, ShoppingCart, Settings, Smartphone } from 'lucide-react';
+import { BarChart3, Users, DollarSign, AlertCircle, ShoppingCart, Settings, Smartphone, FileText } from 'lucide-react';
 import Dashboard from './components/Dashboard';
 import Sales from './components/Sales';
 import Receives from './components/Receives';
@@ -8,6 +8,7 @@ import Customers from './components/Customers';
 import WhatsAppPanel from './components/WhatsAppPanel';
 import PixManager from './components/PixManager';
 import QuickEntry from './components/QuickEntry';
+import NotasFiscais from './components/NotasFiscais';
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('dashboard');
@@ -19,6 +20,7 @@ export default function App() {
     { id: 'payments', label: 'Pagamentos', icon: AlertCircle },
     { id: 'customers', label: 'Clientes', icon: Users },
     { id: 'pix', label: 'PIX', icon: Smartphone },
+    { id: 'nfse', label: 'Notas Fiscais', icon: FileText },
     { id: 'whatsapp', label: 'WhatsApp', icon: Settings }
   ];
 
@@ -78,6 +80,7 @@ export default function App() {
         {activeTab === 'payments' && <Payments />}
         {activeTab === 'customers' && <Customers />}
         {activeTab === 'pix' && <PixManager />}
+        {activeTab === 'nfse' && <NotasFiscais />}
         {activeTab === 'whatsapp' && <WhatsAppPanel />}
       </main>
 
@@ -86,7 +89,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4 py-8">
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div>
-              <p className="text-slate-300 font-semibold">PDV System v1.1</p>
+              <p className="text-slate-300 font-semibold">PDV System v1.3.0</p>
               <p className="text-slate-500 text-sm">© 2024 - Desenvolvido com ❤️ para seu negócio</p>
             </div>
             <div className="mt-4 md:mt-0 flex gap-4">
