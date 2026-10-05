@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { BarChart3, Users, DollarSign, AlertCircle, ShoppingCart, Settings, Smartphone, FileText } from 'lucide-react';
 import Dashboard from './components/Dashboard';
 import Sales from './components/Sales';
